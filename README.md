@@ -241,9 +241,9 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=NightBaRron1412&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
     />
   </p>
-
+  
   ![𝚐𝚒𝚝𝚑𝚞𝚋
-  𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=NightBaRron1412&theme=react-dark&hide_border=true&area=true)
+  𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=NightBaRron1412&theme=react-dark&hide_border=true&area=true)
   [![Code's github activity
   graph](https://github.com/NightBaRron1412/NightBaRron1412/raw/output/github-contribution-grid-snake.svg)](https://skyline.github.com/NightBaRron1412)
 
