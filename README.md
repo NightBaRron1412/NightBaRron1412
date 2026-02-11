@@ -212,11 +212,11 @@ Comprehensive collection of 100+ LeetCode solutions covering 30+ topic tags incl
 <br/>
 
 <a href="https://github.com/NightBaRron1412">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NightBaRron1412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NightBaRron1412&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/NightBaRron1412">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightBaRron1412&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&layout=compact" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NightBaRron1412&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&layout=compact" alt="Top Languages"/>
 </a>
 
 <br/><br/>
