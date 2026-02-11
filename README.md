@@ -25,7 +25,7 @@
   <a href="https://amirshetaia.me"><img src="https://img.shields.io/badge/amirshetaia.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/ashetaia/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/></a>
   <a href="https://twitter.com/NightBarRon1412"><img src="https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff" alt="X"/></a>
-  <a href="mailto:a.shetaia@queensu.ca"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email"/></a>
+  <a href="mailto:ashetaia01@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email"/></a>
   <a href="https://github.com/sponsors/NightBaRron1412"><img src="https://img.shields.io/badge/Sponsor-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=db61a2" alt="Sponsor"/></a>
 </p>
 
@@ -274,7 +274,7 @@ Comprehensive collection of 100+ LeetCode solutions covering 30+ topic tags incl
   <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3" alt="X"/>
 </a>
 &nbsp;
-<a href="mailto:a.shetaia@queensu.ca">
+<a href="mailto:ashetaia01@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 &nbsp;
