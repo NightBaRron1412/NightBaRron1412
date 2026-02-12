@@ -14,10 +14,9 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=100&lines=%24+dmesg+%7C+grep+amir_shetaia;GPU+%C2%B7+Kernel+%C2%B7+ROCm+%C2%B7+Heterogeneous+Computing;Linux+%C2%B7+AMDGPU+%C2%B7+KFD+%C2%B7+HSA+%C2%B7+HIP;Systems+Programming+%C2%B7+Performance+%C2%B7+Determinism" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=140&lines=%24+dmesg+%7C+grep+amir_shetaia;GPU+%C2%B7+Kernel+%C2%B7+ROCm+%C2%B7+Heterogeneous+Computing;Linux+%C2%B7+AMDGPU+%C2%B7+KFD+%C2%B7+HSA+%C2%B7+HIP;Systems+Programming+%C2%B7+Performance+%C2%B7+Determinism" alt="Typing SVG" />
 </a>
 
-<br/>
 <br/>
 
 <!-- ─── QUICK BADGES ──────────────────────────────────────────────────────── -->
