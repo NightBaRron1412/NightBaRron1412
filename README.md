@@ -22,7 +22,7 @@
 <!-- ─── QUICK BADGES ──────────────────────────────────────────────────────── -->
 
 <p>
-  <a href="https://amirshetaia.me"><img src="https://img.shields.io/badge/amirshetaia.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Website"/></a>
+  <a href="https://amirshetaia.com"><img src="https://img.shields.io/badge/amirshetaia.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/ashetaia/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/></a>
   <a href="https://twitter.com/NightBarRon1412"><img src="https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff" alt="X"/></a>
   <a href="mailto:ashetaia01@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email"/></a>
@@ -59,7 +59,7 @@ struct engineer {
     const char *org;         /* "AMD — ROCm Platform"             */
     const char *location;    /* "Toronto, ON, Canada"             */
     const char *education;   /* "MASc ECE — Queen's University"   */
-    const char *website;     /* "https://amirshetaia.me"          */
+    const char *website;     /* "https://amirshetaia.com"         */
 };
 ```
 
@@ -262,8 +262,8 @@ Comprehensive collection of 100+ LeetCode solutions covering 30+ topic tags incl
 <div align="center">
 <br/>
 
-<a href="https://amirshetaia.me">
-  <img src="https://img.shields.io/badge/🌐_amirshetaia.me-0d1117?style=for-the-badge" alt="Website"/>
+<a href="https://amirshetaia.com">
+  <img src="https://img.shields.io/badge/🌐_amirshetaia.com-0d1117?style=for-the-badge" alt="Website"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ashetaia/">
